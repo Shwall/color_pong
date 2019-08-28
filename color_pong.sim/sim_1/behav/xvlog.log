@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/winstead/xilinx/examples/neopixel_strip/neopixel_strip.srcs/sources_1/imports/neopixel_sources/neopixel_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module neopixel_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/winstead/xilinx/examples/neopixel_strip/neopixel_strip.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/winstead/xilinx/examples/neopixel_strip/neopixel_strip.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
